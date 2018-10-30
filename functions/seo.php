@@ -16,7 +16,7 @@ function seo(){
 		$palavra_chave = "";
 		break;
 
-		case 'loja.php':
+		case 'loja-virtual.php':
 		$titulo = "Loja Virtual - Geleias Flor de Lótus";
 		$descricao = "";
 		$palavra_chave = "";
