@@ -1,0 +1,23 @@
+#a4228c - Roxo
+
+#8bc741 - Verde
+
+#51c4e1 - Azul
+
+#231f20 - Cinza Logotipo
+
+#e9c2cc - Flor de Lotus
+
+#73bee6 - Azul céu
+
+#fab742 - Link
+
+= Tentativa 1 =
+
+#80e6db - Azul Claro
+#d5bad9 - Lilas
+#783884 - Roxo
+#39134e - Roxo escuro
+#b9c207 - Verde caule
+
+#B98EC1 - Roxo Claro
