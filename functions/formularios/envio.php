@@ -22,7 +22,8 @@ $mail->FromName = "Formulário de Contato (Site)"; // Nome da conta de email
 // DADOS DO DESTINATÁRIO
 $mail->AddAddress('contato@geleiasflordelotus.com.br', 'Contato - Geleias Flor de Lótus'); // Define qual conta de email receberá a mensagem
 //$mail->AddAddress('recebe2@geleiasflordelotus.com.br'); // Define qual conta de email receberá a mensagem
-//$mail->AddCC('copia@dominio.net'); // Define qual conta de email receberá uma cópia
+$mail->AddCC('cristina@geleiasflordelotus.com.br'); // Define qual conta de email receberá uma cópia
+$mail->AddCC('gilberto@geleiasflordelotus.com.br'); // Define qual conta de email receberá uma cópia
 //$mail->AddBCC('copiaoculta@dominio.info'); // Define qual conta de email receberá uma cópia oculta
 
 // Definição de HTML/codificação
