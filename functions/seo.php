@@ -16,6 +16,12 @@ function seo(){
 		$palavra_chave = "";
 		break;
 
+		case 'loja.php':
+		$titulo = "Loja Virtual - Geleias Flor de Lótus";
+		$descricao = "";
+		$palavra_chave = "";
+		break;
+
 		default:
 		$titulo = "404 - Página não encontrada";
 		$descricao = "";
