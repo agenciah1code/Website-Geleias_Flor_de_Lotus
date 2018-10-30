@@ -1,7 +1,6 @@
 <?php include("includes/header.php") ?>
 
 <section>
-
 	<div style="z-index: -10;" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
@@ -18,7 +17,6 @@
 			</div>
 		</div>
 	</div>
-
 </section>
 
 <section class="jumbotron text-center" id="sobre-nos">
@@ -30,27 +28,26 @@
 
 <section>
 	<div class="infos">
-
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm">
 					<div class="row infos-conteudo">
 						<div class="col-md">
-							<img src="img/icones/artesanal.png" alt="">
+							<img src="img/icones/artesanal.png" alt="Artesanal">
 							<h1>Artesanal</h1>
 							<p>
 								Geleias artesanais feitas especialmente para você
 							</p>
 						</div>
 						<div class="col-md">
-							<img src="img/icones/natural.png" alt="">
+							<img src="img/icones/natural.png" alt="Natural">
 							<h1>100% Natural</h1>
 							<p>
 								Geleias 100% naturais. Saúde em primeiro lugar!
 							</p>
 						</div>
 						<div class="col-md">
-							<img src="img/icones/menos_açucar.png" alt="">
+							<img src="img/icones/menos_açucar.png" alt="Menos Açucar">
 							<h1>Receita Inovadora</h1>
 							<p>
 								Adoçada com apenas 20% de açucar organico ou xilitol
@@ -61,7 +58,6 @@
 			</div>
 		</div>
 	</div>
-
 </section>
 
 <section>
@@ -92,7 +88,6 @@
 	</div>
 </section>
 
-
 <section class="jumbotron text-center" id="nossas-geleias">
 	<div class="container">
 		<h1 class="jumbotron-heading">Nossas Geleias</h1>
@@ -101,17 +96,16 @@
 </section>
 
 <section class="sec-nossas-geleias">
-
 	<div class="album py-5">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="abacaxi-com-limao">
-						<img class="card-img-top" src="img/geleias/abacaxicomlimao.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/abacaxicomlimao.jpeg" alt="Abacaxi com Limão">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=51">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Abacaxi com Limão</small>
 							</div>
@@ -121,11 +115,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="banana-com-rum">
-						<img class="card-img-top" src="img/geleias/bananacomrum.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/bananacomrum.jpeg" alt="Banana com Rum">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=50">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Banana com Rum</small>
 							</div>
@@ -135,11 +129,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="damasco-com-canela">
-						<img class="card-img-top" src="img/geleias/damascocomcanela.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/damascocomcanela.jpeg" alt="Damasco com Canela">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=52">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Damasco com Canela</small>
 							</div>
@@ -149,11 +143,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="maca-com-rum-e-canela">
-						<img class="card-img-top" src="img/geleias/macacomrumecanela.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/macacomrumecanela.jpeg" alt="Maça com Rum e Canela">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=53">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Maça com Rum e Canela</small>
 							</div>
@@ -163,11 +157,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="manga-com-maracuja">
-						<img class="card-img-top" src="img/geleias/mangacommaracuja.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/mangacommaracuja.jpeg" alt="Manga com Maracujá">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=54">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Manga com Maracuja</small>
 							</div>
@@ -177,11 +171,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="manga-com-tangerina">
-						<img class="card-img-top" src="img/geleias/mangacomtangerina.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/mangacomtangerina.jpeg" alt="Manga com Tangerina">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=55">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Manga com Tangerina</small>
 							</div>
@@ -191,11 +185,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="mix-de-frutas">
-						<img class="card-img-top" src="img/geleias/mixdefrutas.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/mixdefrutas.jpeg" alt="Mix de Frutas">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=56">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Mix de Frutas</small>
 							</div>
@@ -205,11 +199,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="morango-com-vinho">
-						<img class="card-img-top" src="img/geleias/morangocomvinho.jpeg" alt="">
+						<img class="card-img-top" src="img/geleias/morangocomvinho.jpeg" alt="Morango com Vinho">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="#">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=57">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Morango com Vinho</small>
 							</div>
@@ -219,7 +213,6 @@
 			</div>
 		</div>
 	</div>
-
 </section>
 
 <section class="jumbotron text-center" id="contato">
