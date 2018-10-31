@@ -215,6 +215,52 @@
 	</div>
 </section>
 
+<section class="jumbotron text-center" id="depoimentos">
+	<div class="container">
+		<h1 class="jumbotron-heading">Depoimentos</h1>
+		<p class="lead">O que nossos clientes dizem</p>
+	</div>
+</section>
+
+<section>
+	<div class="container">
+		<div class="row text-center">
+			<div class="carousel slide" data-ride="carousel">
+				<div class="carousel-inner carousel-depoimentos">
+					<div class="carousel-item active">
+						<h4>
+							<p class="font-italic">"Depoimento 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!"</p>
+						</h4>
+						<br>
+						<h6>
+							<p><b>Nome:</b> Fulano 1</p>
+						</h6>
+					</div>
+					<div class="carousel-item">
+						<h4>
+							<p class="font-italic">Depoimento 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
+						</h4>
+						<br>
+						<h6>
+							<p><b>Nome:</b> Fulano 2</p>
+						</h6>
+					</div>
+					<div class="carousel-item">
+						<h4>
+							<p class="font-italic">Depoimento 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
+						</h4>
+						<br>
+						<h6>
+							<p><b>Nome:</b> Fulano 3</p>
+						</h6>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+
 <section class="jumbotron text-center" id="contato">
 	<div class="container">
 		<h1 class="jumbotron-heading">Fale Conosco</h1>

@@ -214,6 +214,14 @@ a:focus, a:hover {
 
 
 
+/* DEPOIMENTOS */
+
+.carousel-depoimentos h4, .carousel-depoimentos h6 {
+	font-family: "Quicksand-Regular";
+}
+
+
+
 /* FORMULÁRIO DE CONTATO */
 
 form label {
