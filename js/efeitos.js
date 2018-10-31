@@ -36,19 +36,3 @@
  */
 
  $("#telefone").mask("(00) 0000-00000");
-
- /**
-  * AVISO QUE A LOJA ESTÁ EM CONSTRUÇÃO
-  */
-
-  $(".card a, #loja-manutencao").click(function(event) {
-    event.preventDefault();
-    alert("Loja Virtual em construção. Entre em contato conosco por e-mail ou telefone!");
-    window.location.href = "#contato";
-});
-
-  $("#blog-manutencao").click(function(event) {
-    event.preventDefault();
-    alert("Nosso blog está em construção, em breve artigos exclusivos para você!");
-    window.location.href = "#contato";
-});
