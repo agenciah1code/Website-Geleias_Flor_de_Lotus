@@ -215,14 +215,14 @@
 	</div>
 </section>
 
-<section class="jumbotron text-center" id="depoimentos">
+<section class="jumbotron text-center">
 	<div class="container">
 		<h1 class="jumbotron-heading">Depoimentos</h1>
 		<p class="lead">O que nossos clientes dizem</p>
 	</div>
 </section>
 
-<section>
+<section class="depoimentos">
 	<div class="container">
 		<div class="row text-center">
 			<div class="carousel slide" data-ride="carousel">

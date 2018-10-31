@@ -216,6 +216,10 @@ a:focus, a:hover {
 
 /* DEPOIMENTOS */
 
+.depoimentos {
+	padding: 50px 0px;
+}
+
 .carousel-depoimentos h4, .carousel-depoimentos h6 {
 	font-family: "Quicksand-Regular";
 }
