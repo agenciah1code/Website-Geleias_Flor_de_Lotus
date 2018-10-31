@@ -40,7 +40,7 @@
 				<a class="nav-link scroll-suave" href="loja-virtual"><i class="fas fa-shopping-cart"></i> Loja Virtual</a>
 			</li>
 			<li class="nav-item active">
-				<a class="nav-link scroll-suave" href="blog"><i class="fas fa-newspaper"></i> Blog</a>
+				<a class="nav-link scroll-suave" target="_blank" href="blog"><i class="fas fa-newspaper"></i> Blog</a>
 			</li>
 			<li class="nav-item active">
 				<a class="nav-link scroll-suave" href="#contato"><i class="fas fa-phone"></i> Contato</a>
