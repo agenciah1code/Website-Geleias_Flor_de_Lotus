@@ -17,34 +17,37 @@
 	border: 1px solid red;
 }
 
-html, body {
+html,
+body {
 	height: 100%;
 	width: 100%;
 	font-family: "Quicksand-Regular", sans-serif;
 	color: #231f20;
 }
 
-::-webkit-scrollbar-track
-{
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 	border-radius: 10px;
 	background-color: #F5F5F5;
 }
 
-::-webkit-scrollbar
-{
+::-webkit-scrollbar {
 	width: 12px;
 	background-color: #F5F5F5;
 }
 
-::-webkit-scrollbar-thumb
-{
+::-webkit-scrollbar-thumb {
 	border-radius: 10px;
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
 	background-color: #B98EC1;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-family: "Satisfy-Regular", sans-serif;
 }
 
@@ -52,7 +55,8 @@ a {
 	color: #62206D;
 }
 
-a:focus, a:hover {
+a:focus,
+a:hover {
 	color: #460A50;
 }
 
@@ -97,7 +101,8 @@ a:focus, a:hover {
 	margin-right: 15px;
 }
 
-.navbar-light a:focus, .navbar-light a:hover {
+.navbar-light a:focus,
+.navbar-light a:hover {
 	color: #955C9F !important;
 }
 
@@ -109,7 +114,7 @@ a:focus, a:hover {
 	border-bottom-left-radius: 40px;
 	border-bottom-right-radius: 40px;
 	z-index: -1;
-} 
+}
 
 .menu {
 	flex: 1;
@@ -181,22 +186,28 @@ a:focus, a:hover {
 	border-color: #783884;
 }
 
-.btn-outline-secondary:hover, .btn-outline-secondary:focus {
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
 	background-color: #783884;
 	color: white;
 }
 
-.btn-outline-secondary.focus, .btn-outline-secondary:focus {
-	box-shadow: 0 0 0 0.2rem rgba(185,142,1930,0.5);
+.btn-outline-secondary.focus,
+.btn-outline-secondary:focus {
+	box-shadow: 0 0 0 0.2rem rgba(185, 142, 1930, 0.5);
 }
 
-.btn-outline-secondary:not(:disabled):not(.disabled).active, .btn-outline-secondary:not(:disabled):not(.disabled):active, .show>.btn-outline-secondary.dropdown-toggle {
+.btn-outline-secondary:not(:disabled):not(.disabled).active,
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-secondary.dropdown-toggle {
 	background-color: #783884;
 	border-color: #783884;
 }
 
-.btn-outline-secondary:not(:disabled):not(.disabled).active:focus, .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-outline-secondary.dropdown-toggle:focus {
-	box-shadow: 0 0 0 0.2rem rgba(185,142,1930,0.5);
+.btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
+.btn-outline-secondary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-secondary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 0.2rem rgba(185, 142, 1930, 0.5);
 }
 
 .voltar-ao-topo {
@@ -206,6 +217,7 @@ a:focus, a:hover {
 	border-radius: 50px;
 	display: none;
 }
+
 .voltar-ao-topo .fas {
 	font-size: 50px !important;
 	color: #5dbc9d;
@@ -220,7 +232,8 @@ a:focus, a:hover {
 	padding: 50px 0px;
 }
 
-.carousel-depoimentos h4, .carousel-depoimentos h6 {
+.carousel-depoimentos h4,
+.carousel-depoimentos h6 {
 	font-family: "Quicksand-Regular";
 }
 
@@ -250,15 +263,17 @@ form .float-right {
 	color: white !important;
 }
 
-:-moz-placeholder { /* Firefox 18- */
+:-moz-placeholder {
+	/* Firefox 18- */
 	color: white !important;
 }
 
-::-moz-placeholder {  /* Firefox 19+ */
+::-moz-placeholder {
+	/* Firefox 19+ */
 	color: white !important;
 }
 
-:-ms-input-placeholder {  
+:-ms-input-placeholder {
 	color: white !important;
 }
 
@@ -266,7 +281,7 @@ form .float-right {
 	background-color: #d5bad9;
 	border-color: #783884;
 	outline: 0;
-	box-shadow: 0 0 0 0.2rem rgba(120,56,132,0.6);
+	box-shadow: 0 0 0 0.2rem rgba(120, 56, 132, 0.6);
 }
 
 .btn-roxo {
@@ -275,7 +290,7 @@ form .float-right {
 }
 
 .btn-roxo:focus {
-	box-shadow: 0 0 0 0.2rem rgba(120,56,132,0.4);
+	box-shadow: 0 0 0 0.2rem rgba(120, 56, 132, 0.4);
 }
 
 
@@ -341,7 +356,7 @@ form .float-right {
 	.topbar .list-inline li {
 		margin-top: 3px;
 	}
-	
+
 	.navbar a>img {
 		display: none;
 	}
@@ -422,6 +437,4 @@ form .float-right {
 
 /* RESPONSIVIDADE EM "DESKTOPS" DE 1200px À 1919px */
 
-@media (min-width: 1200px) and (max-width: 1919px) {
-
-}
+@media (min-width: 1200px) and (max-width: 1919px) {}
