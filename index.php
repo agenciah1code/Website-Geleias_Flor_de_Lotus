@@ -67,20 +67,31 @@
 				<div class="card p-4 my-3">
 					<div class="card-text">
 						<p>
-							A "Flor de Lótus" nasceu com o intuito de proporcionar mais sabor e saúde para acompanhar seus momentos mais especiais.
+							A "Flor de Lótus" nasceu com o intuito de proporcionar mais sabor e saúde para acompanhar seus momentos mais
+							especiais.
 							<br> <br>
-							Com a crescente necessidade de adotar uma alimentação saudável, nos deparamos com muitas dificuldades em adquirir alimentos que viessem de encontro com essa nova realidade. Assim adotamos o lema "Faça você mesmo", com isto começamos a produzir geleias caseiras que agradassem o paladar de nossa família.
+							Com a crescente necessidade de adotar uma alimentação saudável, nos deparamos com muitas dificuldades em
+							adquirir alimentos que viessem de encontro com essa nova realidade. Assim adotamos o lema "Faça você mesmo", com
+							isto começamos a produzir geleias caseiras que agradassem o paladar de nossa família.
 							<br> <br>
-							Assim surgiu uma parceria entre Pai e Filha, após recebermos elogios e incentivos de familiares e amigos resolvemos apostar em nossas Saborosas Geleias, inicialmente vendemos para familiares, amigos e conhecidos informalmente e hoje já estamos em alguns Empórios e lojas de produtos Naturais.
+							Assim surgiu uma parceria entre Pai e Filha, após recebermos elogios e incentivos de familiares e amigos
+							resolvemos apostar em nossas Saborosas Geleias, inicialmente vendemos para familiares, amigos e conhecidos
+							informalmente e hoje já estamos em alguns Empórios e lojas de produtos Naturais.
 							<br> <br>
-							As geleias "Flor de Lótus" são produzidas com frutas cuidadosamente selecionadas. Assim entregamos uma geleia de alta qualidade e um sabor incomparável, nossas receitas utilizam 80% menos açúcar do que as receitas tradicionais, além de utilizarmos apenas açúcar orgânico ou xilitol (baixo índice glicêmico), não utilizamos conservantes, aromatizantes ou qualquer tipo de corante.
+							As geleias "Flor de Lótus" são produzidas com frutas cuidadosamente selecionadas. Assim entregamos uma geleia de
+							alta qualidade e um sabor incomparável, nossas receitas utilizam 80% menos açúcar do que as receitas
+							tradicionais, além de utilizarmos apenas açúcar orgânico ou xilitol (baixo índice glicêmico), não utilizamos
+							conservantes, aromatizantes ou qualquer tipo de corante.
 							<br> <br>
 							Flor de Lótus, arte e sabor da nossa cozinha para sua Casa.
 							<br> <br>
-							As Geleias Flor de Lótus são produzidas a partir de frutas selecionadas e uma combinação perfeita de sabores como: Morango com vinho, Damasco com canela, manga com maracujá, abacaxi com limão, maça com rum e canela, manga com tangerina, banana com rum e  mix de frutas.  As geleias são 100% naturais, ideais para quem busca sabor e saúde em um só produto.
+							As Geleias Flor de Lótus são produzidas a partir de frutas selecionadas e uma combinação perfeita de sabores
+							como: Morango com vinho, Damasco com canela, manga com maracujá, abacaxi com limão, maça com rum e canela, manga
+							com tangerina, banana com rum e mix de frutas. As geleias são 100% naturais, ideais para quem busca sabor e
+							saúde em um só produto.
 							<br> <br>
 							Produzimos geleias de 200ml adoçadas com apenas 20% de açucar organico ou xilitol.
-						</p>		
+						</p>
 					</div>
 				</div>
 			</div>
@@ -203,7 +214,8 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=57">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=57">Ver
+										na Loja</a>
 								</div>
 								<small class="text-muted">Morango com Vinho</small>
 							</div>
@@ -229,7 +241,10 @@
 				<div class="carousel-inner carousel-depoimentos">
 					<div class="carousel-item active">
 						<h4>
-							<p class="font-italic">"Depoimento 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!"</p>
+							<p class="font-italic">"Depoimento 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur
+								necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi
+								incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit
+								odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!"</p>
 						</h4>
 						<br>
 						<h6>
@@ -238,7 +253,10 @@
 					</div>
 					<div class="carousel-item">
 						<h4>
-							<p class="font-italic">Depoimento 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
+							<p class="font-italic">Depoimento 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur
+								necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi
+								incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit
+								odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
 						</h4>
 						<br>
 						<h6>
@@ -247,7 +265,10 @@
 					</div>
 					<div class="carousel-item">
 						<h4>
-							<p class="font-italic">Depoimento 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
+							<p class="font-italic">Depoimento 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste pariatur
+								necessitatibus autem eaque consectetur voluptatem excepturi sed, expedita deleniti perspiciatis non porro nisi
+								incidunt accusantium repellendus provident at quia quo, magnam, officiis unde soluta illo ut amet! Animi fugit
+								odio culpa sint nam voluptatum, qui hic, saepe maiores nostrum sit!</p>
 						</h4>
 						<br>
 						<h6>
@@ -258,7 +279,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+	</div>
 </section>
 
 <section class="jumbotron text-center" id="contato">
