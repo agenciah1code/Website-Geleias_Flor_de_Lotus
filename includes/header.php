@@ -4,7 +4,6 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta property="og:image" content="img/logotipo.png" />
 
 	<?php include("functions/seo.php") ?>
 
@@ -20,7 +19,9 @@
 	<link rel="stylesheet" href="css/estilo.css">
 
 	<!-- Imagem de compartilhamento -->
+	<meta property="og:image" content="img/logotipo.png" />
 
+	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="img/logotipo.png"/>
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
