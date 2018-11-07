@@ -116,7 +116,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Abacaxi com Limão</small>
 							</div>
@@ -130,7 +130,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Banana com Rum</small>
 							</div>
@@ -144,7 +144,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Damasco com Canela</small>
 							</div>
@@ -158,7 +158,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Maça com Rum e Canela</small>
 							</div>
@@ -172,7 +172,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Manga com Maracuja</small>
 							</div>
@@ -186,7 +186,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Manga com Tangerina</small>
 							</div>
@@ -200,7 +200,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja-virtual">Ver na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Mix de Frutas</small>
 							</div>
@@ -227,14 +227,14 @@
 	</div>
 </section>
 
-<section class="jumbotron text-center">
+<section class="jumbotron text-center" style="display: none;">
 	<div class="container">
 		<h1 class="jumbotron-heading">Depoimentos</h1>
 		<p class="lead">O que nossos clientes dizem</p>
 	</div>
 </section>
 
-<section class="depoimentos">
+<section class="depoimentos" style="display: none;">
 	<div class="container">
 		<div class="row text-center">
 			<div class="carousel slide" data-ride="carousel">
