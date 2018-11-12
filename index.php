@@ -112,7 +112,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="abacaxi-com-limao">
-						<img class="card-img-top" src="img/geleias/abacaxicomlimao.jpeg" alt="Abacaxi com Limão">
+						<img class="card-img-top" src="img/geleias/abacaxi_com_limao.JPG" alt="Abacaxi com Limão">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -126,7 +126,7 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="banana-com-rum">
-						<img class="card-img-top" src="img/geleias/bananacomrum.jpeg" alt="Banana com Rum">
+						<img class="card-img-top" src="img/geleias/banana_com_rum.JPG" alt="Banana com Rum">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -139,8 +139,23 @@
 				</div>
 
 				<div class="col-md-4">
+					<div class="card mb-4 box-shadow" id="cocada-mole">
+						<img class="card-img-top" src="img/geleias/cocada_mole.JPG" alt="Cocada Mole">
+						<div class="card-body">
+							<div class="d-flex justify-content-between align-items-center">
+								<div class="btn-group">
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
+										na Loja</a>
+								</div>
+								<small class="text-muted">Cocada Mole</small>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="damasco-com-canela">
-						<img class="card-img-top" src="img/geleias/damascocomcanela.jpeg" alt="Damasco com Canela">
+						<img class="card-img-top" src="img/geleias/damasco_com_canela.JPG" alt="Damasco com Canela">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -153,8 +168,23 @@
 				</div>
 
 				<div class="col-md-4">
+					<div class="card mb-4 box-shadow" id="jaboticaba">
+						<img class="card-img-top" src="img/geleias/jaboticaba.JPG" alt="Jaboticaba">
+						<div class="card-body">
+							<div class="d-flex justify-content-between align-items-center">
+								<div class="btn-group">
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
+										na Loja</a>
+								</div>
+								<small class="text-muted">Jaboticaba</small>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="maca-com-rum-e-canela">
-						<img class="card-img-top" src="img/geleias/macacomrumecanela.jpeg" alt="Maça com Rum e Canela">
+						<img class="card-img-top" src="img/geleias/maca_com_rum_e_canela.JPG" alt="Maça com Rum e Canela">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -168,7 +198,7 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="manga-com-maracuja">
-						<img class="card-img-top" src="img/geleias/mangacommaracuja.jpeg" alt="Manga com Maracujá">
+						<img class="card-img-top" src="img/geleias/manga_com_maracuja.JPG" alt="Manga com Maracujá">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -182,7 +212,7 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="manga-com-tangerina">
-						<img class="card-img-top" src="img/geleias/mangacomtangerina.jpeg" alt="Manga com Tangerina">
+						<img class="card-img-top" src="img/geleias/manga_com_tangerina.JPG" alt="Manga com Tangerina">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -196,7 +226,7 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="mix-de-frutas">
-						<img class="card-img-top" src="img/geleias/mixdefrutas.jpeg" alt="Mix de Frutas">
+						<img class="card-img-top" src="img/geleias/mix_de_frutas.JPG" alt="Mix de Frutas">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
@@ -210,11 +240,11 @@
 
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow" id="morango-com-vinho">
-						<img class="card-img-top" src="img/geleias/morangocomvinho.jpeg" alt="Morango com Vinho">
+						<img class="card-img-top" src="img/geleias/morango_com_vinho.JPG" alt="Morango com Vinho">
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="http://geleiasflordelotus.com.br/loja/index.php?route=product/product&product_id=57">Ver
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
 										na Loja</a>
 								</div>
 								<small class="text-muted">Morango com Vinho</small>
@@ -222,6 +252,22 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow" id="vinho">
+						<img class="card-img-top" src="img/geleias/vinho.JPG" alt="Vinho">
+						<div class="card-body">
+							<div class="d-flex justify-content-between align-items-center">
+								<div class="btn-group">
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
+										na Loja</a>
+								</div>
+								<small class="text-muted">Vinho</small>
+							</div>
+						</div>
+					</div>
+				</div>
+
 			</div>
 		</div>
 	</div>
