@@ -39,6 +39,10 @@ jQuery(document).ready(function () {
 
 $("#telefone").mask("(00) 0000-00000");
 
+/**
+ * MENSAGEM INFORMANDO QUE O BLOG ESTÁ EM CONSTRUÇÃO!
+ */
+
 $("#blog-manutencao").click(function (event) {
     event.preventDefault();
     alert("Nosso blog está em construção, em breve artigos exclusivos para você!");

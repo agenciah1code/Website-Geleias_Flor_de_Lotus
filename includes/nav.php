@@ -32,7 +32,7 @@
 				<a class="nav-link scroll-suave" href="#nossas-geleias"><i class="fas fa-store"></i> Nossas Geleias</a>
 			</li>
 		</ul>
-		<a class="navbar-brand">	
+		<a class="navbar-brand">
 			<img src="img/logotipo.png" alt="Logotipo Geleias Flor de Lotus">
 		</a>
 		<ul class="menu menu-direita navbar-nav" id="nav-direita">

@@ -1,37 +1,34 @@
-<?php 
+<?php
 
+function seo()
+{
 
-function seo(){
+    $url = basename($_SERVER['PHP_SELF']);
 
-	$url = basename($_SERVER['PHP_SELF']);
+    $padrao = "";
 
-	$padrao = "";
+    switch ($url) {
 
-	switch ($url) {
+        case '':
+        case 'index.php':
+            $titulo = "Geleias Flor de Lótus";
+            $descricao = "";
+            $palavra_chave = "";
+            break;
 
-		case '': 
-		case 'index.php':
-		$titulo = "Geleias Flor de Lótus";
-		$descricao = "";
-		$palavra_chave = "";
-		break;
+        case 'loja-virtual.php':
+            $titulo = "Loja Virtual - Geleias Flor de Lótus";
+            $descricao = "";
+            $palavra_chave = "";
+            break;
 
-		case 'loja-virtual.php':
-		$titulo = "Loja Virtual - Geleias Flor de Lótus";
-		$descricao = "";
-		$palavra_chave = "";
-		break;
+        default:
+            $titulo = "404 - Página não encontrada";
+            $descricao = "";
+            $palavra_chave = "";
+            break;
+    }
 
-		default:
-		$titulo = "404 - Página não encontrada";
-		$descricao = "";
-		$palavra_chave = "";
-		break;
-	}
-
-	return array ($titulo, $descricao, $palavra_chave);
+    return array($titulo, $descricao, $palavra_chave);
 
 }
-
-
-?>

@@ -39,10 +39,10 @@
 				<div class="col-sm-12">
 					<p>
 						<?php echo date("Y"); ?> Geleias Flor de Lótus - CNPJ: 30.425.806/0001-92 - Todos os Direitos Reservados - Criado por <a href="https://h1code.com.br" target="_blank">Agencia H1 Code</a>
-					</p>					
-				</div>			
+					</p>
+				</div>
 			</div>
-		</div>		
+		</div>
 	</div>
 </footer>
 
@@ -59,4 +59,5 @@
 <script type="text/javascript" src="js/efeitos.js"></script>
 
 </body>
+
 </html>
