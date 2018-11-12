@@ -6,12 +6,15 @@
 				<ul class="list-unstyled">
 					<li><a class="scroll-suave" href="#abacaxi-com-limao">Abacaxi com Limão</a></li>
 					<li><a class="scroll-suave" href="#banana-com-rum">Banana com Rum</a></li>
+					<li><a class="scroll-suave" href="#cocada-mole">Cocada Mole</a></li>
 					<li><a class="scroll-suave" href="#damasco-com-canela">Damasco com Canela</a></li>
+					<li><a class="scroll-suave" href="#jaboticaba">Jaboticaba</a></li>
 					<li><a class="scroll-suave" href="#maca-com-rum-e-canela">Maça com Rum e Canela</a></li>
 					<li><a class="scroll-suave" href="#manga-com-maracuja">Manga com Maracujá</a></li>
 					<li><a class="scroll-suave" href="#manga-com-tangerina">Manga com Tangerina</a></li>
 					<li><a class="scroll-suave" href="#mix-de-frutas">Mix de Frutas</a></li>
 					<li><a class="scroll-suave" href="#morango-com-vinho">Morango com Vinho</a></li>
+					<li><a class="scroll-suave" href="#vinho">Vinho</a></li>
 				</ul>
 			</div>
 			<div class="col-sm-4">
