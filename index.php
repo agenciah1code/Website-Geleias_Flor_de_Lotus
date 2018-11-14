@@ -144,8 +144,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
-										na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver	na Loja</a>
 								</div>
 								<small class="text-muted">Cocada Mole</small>
 							</div>
@@ -173,8 +172,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
-										na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Jaboticaba</small>
 							</div>
@@ -244,8 +242,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
-										na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver na Loja</a>
 								</div>
 								<small class="text-muted">Morango com Vinho</small>
 							</div>
@@ -259,8 +256,7 @@
 						<div class="card-body">
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver
-										na Loja</a>
+									<a class="btn btn-sm btn-outline-secondary" href="loja">Ver	na Loja</a>
 								</div>
 								<small class="text-muted">Vinho</small>
 							</div>
